@@ -1,0 +1,4 @@
+#Thu Dec 17 12:59:45 SAMT 2020
+base.0=H\:\\ITCube.Samsung\\animation-samples\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
